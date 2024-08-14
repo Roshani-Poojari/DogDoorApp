@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.exe
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.deps.json
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.dll
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.dll
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\refint\DogDoorApp.dll
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\DogDoorApp\obj\Debug\net8.0\ref\DogDoorApp.dll
